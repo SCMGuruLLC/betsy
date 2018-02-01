@@ -21,7 +21,7 @@
 
 (defun meeting ()
   "Asks the *human* for their name"
-  (setq *betsy* "[ Betsyro ] ")
+  (setq *betsy* "[ Betsy ] ")
   (princ *betsy*)
   (princ "What is your name?")
   (terpri)
