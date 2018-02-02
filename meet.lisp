@@ -38,10 +38,10 @@
   (princ "? ] ")
   (setq *answer* (read-line))
   (if (string-equal *answer* "no")
-      (meeting))
+      (meet))
   (if (string-not-equal *answer* "yes")
       (progn
 	(princ *betsy*)
 	(princ "Please answer me with a yes or no.")
 	(terpri)
-	(meeting))))
+	(meet))))
