@@ -1,7 +1,7 @@
 ;; main.lisp
 
-;; This program is part of the Betsy project, it controls the flow of
-;; the program
+;; This program is part of the Betsy project, it controls the start
+;; of Betsy's thought process
 
 ;; Copyright (C) 2015, 2018  Scott C. MacCallum
 ;; scm@linux.com
@@ -20,5 +20,6 @@
 ;; along with this program.  If not, see http://www.gnu.org/licenses/.
 
 (defun main()
-  (meeting)
-  (help))
+  "Control the start of Betsy's thought process"
+  (meet)
+  (question))

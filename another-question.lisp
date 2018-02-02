@@ -1,7 +1,7 @@
 ;; another-question.lisp
 
-;; This program is part of the Betsy project, it asks the human if they
-;; have another question
+;; This program is part of the Betsy project, it is where Betsy asks
+;; the human if they have another question
 
 ;; Copyright (C) 2015, 2016, 2018  Scott C. MacCallum
 ;; scm@linux.com
@@ -20,7 +20,7 @@
 ;; along with this program.  If not, see http://www.gnu.org/licenses/.
 
 (defun another-question ()
-  "Asks the human if they have another question"
+  "Ask the human if they have another question"
   (princ *betsy*)
   (princ "Would you like to ask me another question, ")
   (princ *human*)
@@ -44,4 +44,4 @@
 	(princ "Please answer me with a yes or no.")
 	(terpri)
 	(another-question)))
-  (help))
+  (question))
