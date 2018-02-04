@@ -1,11 +1,4 @@
-#!/usr/bin/python3.5
-
-# -*- coding: utf-8 -*-
-
-# load-betsy.py
-
-# This program is part of the Betsy project, it loads knowledge for
-# Betsy
+# betsy.ps1
 
 # Copyright (C) 2018  Scott C. MacCallum
 # scm@linux.com
@@ -23,6 +16,4 @@
 # You should have received a copy of the GNU General Public License
 # along with this program.  If not, see http://www.gnu.org/licenses/.
 
-import main
-
-main.main()
+python load-betsy.py
