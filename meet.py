@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/python3.5
 
 # -*- coding: utf-8 -*-
 
@@ -24,15 +24,13 @@
 # along with this program.  If not, see http://www.gnu.org/licenses/.
 
 def meet():
-    betsy='[ Betsy ] '
-    print("%sWhat is your name?" % betsy)
+    betsy='[ Betsy ]'
+    human='[ Unknown ]'
+    print("%s What is your name?" % betsy)
+    human = input("%s " % human)
+    print("%s Your name is?" % betsy, )
 
 meet()
-#  (princ "What is your name?")
-#  (terpri)
-#  (setq *human* "[ Unknown ] ")
-#  (princ *human*)
-#  (setq *human* (read-line))
 #  (princ *betsy*)
 #  (princ "Your name is, ")
 #  (princ *human*)
