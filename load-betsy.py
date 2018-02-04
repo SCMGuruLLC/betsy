@@ -1,14 +1,12 @@
-#!/bin/sh
+# load-betsyro.lisp
 
-# load-betsyro.sh
-
-# This program is part of the Betsy project, it is the boot loader
-# for Betsy
+# This program is part of the Betsy project, it loads knowledge for
+# Betsy
 
 # Copyright (C) 2015, 2016, 2018  Scott C. MacCallum
 # scm@linux.com
 
-# This program is free software: you can redistribute it and/or 
+# This program is free software: you can redistribute it and/or
 # modify it under the terms of the GNU Affero License as published
 # by the Free Software Foundation, either version 3 of the License,
 # or (at your option) any later version.
@@ -21,6 +19,8 @@
 # You should have received a copy of the GNU General Public License
 # along with this program.  If not, see http://www.gnu.org/licenses/.
 
-clisp -q -i load-betsyro.lisp
-
-exit 0
+(load "another-question.lisp")
+(load "main.lisp")
+(load "meet.lisp")
+(load "question.lisp")
+(main)
