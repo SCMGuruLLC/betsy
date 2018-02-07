@@ -20,12 +20,15 @@
  along with this program.  If not, see http://www.gnu.org/licenses/.
 */
 
+import java.io.*;
+
 public class meet {
     public static void main(String[] args) {
-	String betsy = "[ Betsy ]";
-	System.out.println(String.format("%s What is your name?", betsy));
-	String human = "[ Unknown ]";
-	System.out.println(human);
+	String b = "[ Betsy ]";
+	PrintWriter pw = new PrintWriter(System.out, true);
+	pw.println(b + " What is your name?");
+	String h = "[ Unknown ]";
+	pw.println(h);
     }
 }
 //  (setq *human* (read-line))
