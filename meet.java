@@ -1,7 +1,7 @@
-/* main.java
+/* meet.java
 
- This program is part of the Betsy project, it controls the start
- of Betsy's thought process
+ This program is part of the Betsy project, it is where Betsy
+ meets the human
 
  Copyright (C) 2018  Scott C. MacCallum
  scm@linux.com
@@ -23,7 +23,7 @@
 import java.io.*;
 
 class meet {
-    public static void main(String[] args)
+    static void name()
 	throws IOException
     {
 	BufferedReader br = new
@@ -50,12 +50,12 @@ class meet {
 	answer = br.readLine();
 
 	if ("no".equals(answer)) {
-	    System.out.format("Call meet function code goes here.");
+	    meet.name();
 	}
 
 	if (!"yes".equals(answer)) {
-	    System.out.format("Please answer me with a yes or no.");
-    	    System.out.format("Call meet function code goes here.");
+	    pw.println(ai + "Please answer me with a yes or no.");
+	    meet.name();
 	}
     }
 }
