@@ -3,7 +3,7 @@
  This program is part of the Betsy project, it controls the start
  of Betsy's thought process
 
- Copyright (C) 2015, 2018  Scott C. MacCallum
+ Copyright (C) 2018  Scott C. MacCallum
  scm@linux.com
 
  This program is free software: you can redistribute it and/or
