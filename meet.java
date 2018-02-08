@@ -49,11 +49,11 @@ class meet {
 
 	answer = br.readLine();
 
-	if ("no".equals(answer)) {
+	if ("no".equalsIgnoreCase(answer)) {
 	    meet.name();
 	}
 
-	if (!"yes".equals(answer)) {
+	if (!"yes".equalsIgnoreCase(answer) && !"no".equalsIgnoreCase(answer)) {
 	    pw.println(ai + "Please answer me with a yes or no.");
 	    meet.name();
 	}
