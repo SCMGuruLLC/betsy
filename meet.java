@@ -22,30 +22,40 @@
 
 import java.io.*;
 
-public class meet {
-    public static void main(String[] args) {
-	String b = "[ Betsy ]";
+class meet {
+    public static void main(String[] args)
+	throws IOException
+    {
+	BufferedReader br = new
+	    BufferedReader(new InputStreamReader(System.in));
+
+	String ai = "[ Betsy ] ";
+	String human = "[ Unknown ] ";
+	String answer;
+
 	PrintWriter pw = new PrintWriter(System.out, true);
-	pw.println(b + " What is your name?");
-	String h = "[ Unknown ]";
-	pw.println(h);
+
+	pw.println(ai + "What is your name?");
+
+	System.out.format(human);
+
+	human = br.readLine();
+
+	pw.println(ai + "Your name is, " + human + "?");
+
+	System.out.format("[ ");
+	System.out.format(human);
+	System.out.format("? ] ");
+
+	answer = br.readLine();
+
+	if ("no".equals(answer)) {
+	    System.out.format("Call meet function code goes here.");
+	}
+
+	if (!"yes".equals(answer)) {
+	    System.out.format("Please answer me with a yes or no.");
+    	    System.out.format("Call meet function code goes here.");
+	}
     }
 }
-//  (setq *human* (read-line))
-//  (princ *betsy*)
-//  (princ "Your name is, ")
-//  (princ *human*)
-//  (princ "?")
-//  (terpri)
-//  (princ "[ ")
-//  (princ *human*)
-//  (princ "? ] ")
-//  (setq *answer* (read-line))
-//  (if (string-equal *answer* "no")
-//      (meet))
-//  (if (string-not-equal *answer* "yes")
-//      (progn
-//	(princ *betsy*)
-//	(princ "Please answer me with a yes or no.")
-//	(terpri)
-//	(meet))))
