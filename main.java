@@ -26,7 +26,7 @@ class main {
     public static void main(String[] args)
 	throws IOException
     {
-	meet.name();
-	ask.question();
+	meet.meet();
+	question.question();
     }
 }
