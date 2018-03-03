@@ -1,7 +1,7 @@
-/* betsy.java
+/* main.java
 
  This program is part of the Betsy project, it controls the start
- of Betsy's thought process
+ of Betsy's thought process.
 
  Copyright (C) 2018  Scott C. MacCallum
  scm@linux.com
@@ -22,11 +22,11 @@
 
 import java.io.*;
 
-class betsy {
+class main {
     public static void main(String[] args)
 	throws IOException
     {
-	meet.name();
-	//	question.help();
+	meet.meet();
+	question.question();
     }
 }

@@ -23,7 +23,7 @@
 import java.io.*;
 
 class meet {
-    static void name()
+    static void meet()
 	throws IOException
     {
 	BufferedReader br = new
@@ -49,13 +49,13 @@ class meet {
 
 	answer = br.readLine();
 
-	if ("no".equals(answer)) {
-	    meet.name();
+	if ("no".equalsIgnoreCase(answer)) {
+	    meet.meet();
 	}
 
-	if (!"yes".equals(answer)) {
+	if (!"yes".equalsIgnoreCase(answer) && !"no".equalsIgnoreCase(answer)) {
 	    pw.println(ai + "Please answer me with a yes or no.");
-	    meet.name();
+	    meet.meet();
 	}
     }
 }
