@@ -1,2 +1,2 @@
 # betsy
-An artificially intelligent operating system
+An artificially intelligent knowledge accumulation assistant
