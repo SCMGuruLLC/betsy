@@ -20,6 +20,6 @@
 ;; along with this program.  If not, see http://www.gnu.org/licenses/.
 
 (defun main()
-  "Control the start of Betsy's thought process"
+  "Control Betsy's thought process"
   (meet)
   (question))
