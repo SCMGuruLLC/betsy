@@ -20,7 +20,7 @@
 ;; along with this program.  If not, see http://www.gnu.org/licenses/.
 
 (load "another-question.lisp")
-(load "main.lisp")
 (load "meet.lisp")
 (load "question.lisp")
+(load "main.lisp")
 (main)
