@@ -19,9 +19,9 @@ porting process (refactoring) and learning what language is
 right for a given job.
 
 Each branch is developed until they all reach a common design
-goal and are stable to use. It is at this point that a release
-is made for each. Which branch one chooses to install from is
-dependent on what is best for you.
+goal and are stable. It is at this point that a release is made
+for each. Which branch one chooses to install from is dependent
+on what is best for you.
 
 ## How to Install Betsy
 
