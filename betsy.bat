@@ -4,7 +4,7 @@ REM betsy.bat
 
 REM This program is part of the Betsy project, it runs Betsy's
 REM thought process on Windows platforms where the latest
-REM version of Java are supported.
+REM version of Java is supported.
 
 REM Copyright (C) 2018  Scott C. MacCallum
 REM scm@linux.com
