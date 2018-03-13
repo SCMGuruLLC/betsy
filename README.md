@@ -5,7 +5,7 @@ An artificially intelligent knowledge accumulation assistant
 Betsy is developed in various Git branches, each in a different
 programming language. They are as follows.
 
-- master (common lisp)
+- master (Common Lisp)
 - java
 - python
 
