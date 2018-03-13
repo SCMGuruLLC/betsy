@@ -20,7 +20,7 @@ right for a given job.
 Each branch is developed until they all reach a common design
 goal and are stable. It is at this point that a release is made
 for each. Which branch one chooses to install from is dependent
-on what is best for you.
+on which is best for your requirements.
 
 ## How to Install Betsy
 
