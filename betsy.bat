@@ -26,4 +26,4 @@ cls
 
 java betsy
 
-exit /b 0
+exit 0
