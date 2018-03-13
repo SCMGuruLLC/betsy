@@ -28,4 +28,5 @@ on what is best for you.
 Instructions here when a stable release is made!
 
 ### Developer
-
+#### Master Branch
+`git clone https://github.com/scmaccal/betsy.git`
