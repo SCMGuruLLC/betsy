@@ -1,7 +1,8 @@
 # betsy.ps1
 
-# This program is part of the Betsy project, it starts Betsy's
-# thought process.
+# This program is part of the Betsy project, it runs Betsy's
+# thought process on Windows platforms where PowerShell and the
+# latest version of Java is supported.
 
 # Copyright (C) 2018  Scott C. MacCallum
 # scm@linux.com
