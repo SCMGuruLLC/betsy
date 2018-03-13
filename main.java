@@ -23,10 +23,13 @@
 
 import java.io.*;
 
+// Control the thought process of Betsy
+
 class main {
     public static void main(String[] args)
 	throws IOException
     {
 	meet.meet();
+	question.question();
     }
 }
