@@ -13,9 +13,8 @@ The reason I chose to do this is because I wanted to learn other
 languages. I could not think of a better way to do that than
 porting code from one language to another. There are other
 benefits to learning languages this way, such as discovering a
-better way of writing already written code during the language
-porting process (refactoring) and learning what language is
-right for a given job.
+better way of writing already written code (refactoring) and
+learning what language is right for a given job.
 
 Each branch is developed until they all reach a common design
 goal and are stable. It is at this point that a release is made
@@ -25,5 +24,7 @@ on what is best for you.
 ## How to Install Betsy
 
 ### User
+Coming soon!
 
 ### Developer
+https://registry.theknot.com/kristina-hoch-abdallah-semanda-august-2017/17453545
