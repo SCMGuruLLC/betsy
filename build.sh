@@ -1,6 +1,8 @@
 # build.sh
 
-# This program is part of the Betsy project, it builds Betsy.
+# This program is part of the Betsy project, it builds Betsy
+# in digital form on Unix-like platforms that support the latest
+# version of Java.
 
 # Copyright (C) 2018  Scott C. MacCallum
 # scm@linux.com
