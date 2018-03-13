@@ -2,7 +2,7 @@
 
 # This program is part of the Betsy project, it runs Betsy's
 # thought process on Windows platforms where PowerShell and the
-# latest version of Java is supported.
+# latest version of Java are supported.
 
 # Copyright (C) 2018  Scott C. MacCallum
 # scm@linux.com
