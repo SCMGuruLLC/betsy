@@ -22,6 +22,6 @@ REM GNU General Public License for more details.
 REM You should have received a copy of the GNU General Public License
 REM along with this program.  If not, see http://www.gnu.org/licenses/.
 
-javac main.java meet.java
+javac main.java meet.java question.java
 
 exit 0
