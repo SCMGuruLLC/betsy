@@ -2,7 +2,9 @@
 
 REM build.bat
 
-REM This program is part of the Betsy project, it builds Betsy.
+REM This program is part of the Betsy project, it builds Betsy
+REM in digital form on Windows platforms that support the latest
+REM version of Java.
 
 REM Copyright (C) 2018  Scott C. MacCallum
 REM scm@linux.com
@@ -22,4 +24,4 @@ REM along with this program.  If not, see http://www.gnu.org/licenses/.
 
 javac main.java meet.java
 
-exit /b 0
+exit 0
