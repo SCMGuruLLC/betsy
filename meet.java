@@ -22,7 +22,7 @@
 
 import java.io.*;
 
-/* Meet the human */
+// Meet the human
 
 class meet {
     static void meet()
