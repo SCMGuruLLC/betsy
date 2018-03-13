@@ -24,7 +24,7 @@ on what is best for you.
 ## How to Install Betsy
 
 ### User
-Coming soon!
+Instructions here when a stable release is made!
 
 ### Developer
-https://registry.theknot.com/kristina-hoch-abdallah-semanda-august-2017/17453545
+
