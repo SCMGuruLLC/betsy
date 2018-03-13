@@ -23,7 +23,8 @@ right for a given job. All valuable traits for one to possess.
 Each branch is developed until they all reach a common design
 goal and are stable to use. It is at this point that a common
 stable release is made for each. Which branch one chooses to
-install Betsy from is dependent on what is best for you.
+install a stable release from is dependent on what is best for
+you.
 
 ## How to Install Betsy
 
