@@ -4,6 +4,8 @@
 # thought process on Unix-like platforms where the latest
 # version of Java is supported.
 
+clear
+
 java main
 
 exit 0
