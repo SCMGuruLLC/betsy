@@ -1,13 +1,13 @@
 # Betsy
 An artificially intelligent knowledge accumulation assistant
 
-# How Betsy is Developed
+## How Betsy is Developed
 Betsy is developed in various Git branches, each in a different
 programming language. They are as follows.
 
-master (Common Lisp)
-Java
-Python
+- master (Common Lisp)
+- Java
+- Python
 
 The reason I chose to do this is because besides achieving the
 specific design goals of the Betsy project, as a secondary goal
