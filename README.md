@@ -18,7 +18,7 @@ another.
 Other beneficial side effects of doing this are discovering a
 better way of writing already written code during the language
 porting process (refactoring) and learning what language is
-right for job. All valuable traits for one to possess.
+right for a given job. All valuable traits for one to possess.
 
 ## How to Install Betsy
 ### User
