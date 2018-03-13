@@ -22,6 +22,6 @@ know what language is right for the job. All valuable traits to
 possess.
 
 ## How to Install Betsy
-###### User
+### User
 
-###### Developer
+### Developer
