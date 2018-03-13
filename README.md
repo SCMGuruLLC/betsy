@@ -17,9 +17,8 @@ another.
 
 Other beneficial side effects of doing this are discovering a
 better way of writing already written code during the language
-porting process, and when asked to develop for someone else,
-know what language is right for the job. All valuable traits to
-possess.
+porting process (refactoring) and learning what language is
+right for job. All valuable traits for one to possess.
 
 ## How to Install Betsy
 ### User
