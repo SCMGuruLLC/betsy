@@ -27,6 +27,5 @@ class main {
 	throws IOException
     {
 	meet.meet();
-	question.question();
     }
 }
