@@ -1,4 +1,5 @@
-/* main.java
+/*
+ main.java
 
  This program is part of the Betsy project, it controls the start
  of Betsy's thought process.
