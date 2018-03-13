@@ -20,7 +20,13 @@ better way of writing already written code during the language
 porting process (refactoring) and learning what language is
 right for a given job. All valuable traits for one to possess.
 
+Each branch is developed until they all reach a common design
+goal and are stable to use. It is at this point that a stable
+release is made. Which branch one chooses to install Betsy from
+is up to you.
+
 ## How to Install Betsy
+
 ### User
 
 ### Developer
