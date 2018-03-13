@@ -22,6 +22,8 @@
 
 import java.io.*;
 
+/* Meet the human */
+
 class meet {
     static void meet()
 	throws IOException
