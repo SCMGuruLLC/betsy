@@ -19,7 +19,7 @@ right for a given job.
 
 Each branch is developed until they all reach a common design
 goal and are stable. It is at this point that a release is made
-for each. Which branch you chooses to install from is depends on
+for each. Which branch you chooses to install from depends on
 your requirements.
 
 ## How to Install Betsy
